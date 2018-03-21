@@ -3,7 +3,7 @@ Assignment for use opendata to predict PM2.5 with Linear Regression
 
 ## Problem Description
 Use continuous twelve hours data with opendata of air to predict PM2.5 values, you must implement it by linear regression.
-![avatar](https://i.imgur.com/zlJ0vZ0.png)
+
 ## Data Description
 - train.csv: opendata which had recorded 12 months data of air.Each hours record 18 attributes, and each months recorded 20 days for training set, remained day for testing set.
 ![avatar](https://i.imgur.com/Lz72PxL.png)
