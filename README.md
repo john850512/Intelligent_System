@@ -11,8 +11,10 @@ Use continuous twelve hours data with opendata of air to predict PM2.5 values, y
 - predictions.csv: use model to predict sample-test.csv data.
 - sample-test-outputs.csv: correct answer of sample-test.csv.
 
-## Development Language
-Python + Numpy + Pandas
+## Development Language & Packages
+- Python 
+- Numpy 
+- Pandas
 
 ## Start Training
 In command Line, use command
