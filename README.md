@@ -36,3 +36,8 @@ to start testing, the data size of testing-set can be different, it will auto-co
 ## Output Predict Result
 after finish testing, it will output a file which name is 'predictions.csv' that recorded the predict PM2.5 value.
 ![atavar](https://i.imgur.com/dt84eMT.png)
+
+## More Detail
+I write two blogs to describe how linear regression work & the difficult I meet when implementing this assignment
+- [[Python]Predict PM2.5 Use Linear Regression – 1](https://john850512.wordpress.com/2018/03/22/pythonpredict-pm2-5-use-linear-regression-1/)
+- [[Python]Predict PM2.5 Use Linear Regression – 2](https://john850512.wordpress.com/2018/03/23/pythonpredict-pm2-5-use-linear-regression-2/#more-2292)
