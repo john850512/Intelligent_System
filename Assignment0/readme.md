@@ -3,8 +3,8 @@ Practice to use Pillow Library(PIL) to change image pixel value.
 
 ## Description
 Use Program to make image's RGB value become half.
-![avatar before]('./123.jpg')
 
+Before: ![avatar](./123.jpg )   After: ![avatar](./temp2.jpg )
 ## Use Langeage & Package
 - Python
 - PIL
