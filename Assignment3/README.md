@@ -6,7 +6,7 @@ Use 106 featutes(data had been preprocessed) to prdict a person is rich or poor(
 
 ## Data Description
 - train_X: preprocessed-data, had finished one-hot encoding with discrete features, features with continuous remain the same.  
-<img src="/img/img1.PNG" height="300" width="400" >
+<img src="./img/img1.PNG" height="500"  >
 
 - train_Y: result for train_X, 1 means rich and 0 means poor.
 - predictions.csv: use model to predict test_X data.
@@ -26,10 +26,16 @@ the data size of testing-set can be different, it will auto-compute the data siz
 
 ## Output Predict Result
 after finish testing, it will output a file which name is 'predictions.csv' that recorded the prediction.
-![atavar]()
+<img src="./img/img5.PNG">
 
-## More Detail
+## Data Standardization & Normalization
 I use different strategy to implement this assignment, below show three result to descripte the training result with each strategy.
 - Pure Logistic Regression
+<img src="./img/img2.PNG">
 - Standardization
+<img src="./img/img3.PNG">
 - Standardization & Normalization
+<img src="./img/img4.PNG">
+
+## More Detail
+I will write blog to descripte detail in future..
