@@ -18,10 +18,12 @@ Use 106 featutes(data had been preprocessed) to prdict a person is rich or poor(
 
 ## Start Training
 In this assignment, just command the `testing block` and uncommand `training block`, and compile the code to start training.
+
 after finish training,it will output some file(.model) , which save the logistic regression model.
 
 ## Start Testing
 just command the `training block` and uncommand `testing block`, and compile the code to start testing.
+
 the data size of testing-set can be different, it will auto-compute the data size.
 
 ## Output Predict Result
