@@ -6,7 +6,8 @@ Use 106 featutes(data had been preprocessed) to prdict a person is rich or poor(
 
 ## Data Description
 - train_X: preprocessed-data, had finished one-hot encoding with discrete features, features with continuous remain the same.  
-![avatar](/img/img1.PNG)
+<img src="/img/img1.PNG" height="300" width="400" >
+
 - train_Y: result for train_X, 1 means rich and 0 means poor.
 - predictions.csv: use model to predict test_X data.
 - others file(.model): training model. 
