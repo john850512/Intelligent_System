@@ -32,8 +32,10 @@ after finish testing, it will output a file which name is 'predictions.csv' that
 I use different strategy to implement this assignment, below show three result to descripte the training result with each strategy.
 - Pure Logistic Regression
 <img src="./img/img2.PNG">
+
 - Standardization
 <img src="./img/img3.PNG">
+
 - Standardization & Normalization
 <img src="./img/img4.PNG">
 
