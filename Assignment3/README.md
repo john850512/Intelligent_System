@@ -42,4 +42,4 @@ I use different strategy to implement this assignment, below show three result t
 <img src="./img/img4.PNG">
 
 ## More Detail
-[[Python]Logistic Regression (SGD version)](https://john850512.wordpress.com/2018/04/16/pythonlogistic-regression-sgd-version/#more-2338)
+[[Python]Logistic Regression (SGD version) – 1](https://john850512.wordpress.com/2018/04/16/pythonlogistic-regression-sgd-version/#more-2338)
