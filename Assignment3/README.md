@@ -17,29 +17,23 @@ Use 106 featutes(data had been preprocessed) to prdict a person is rich or poor(
 - Numpy 
 
 ## Start Training
-In this assignment, just command the `testing block` and uncommand `training block`, and compile the code to start training.
-
-after finish training,it will output some file(.model) , which save the logistic regression model.
+In command Line, use command
+```console
+python  hw2p2.py --mode train --file X_train Y_train
+```
+to start training 'X_train' and 'Y_train', after finish training, it will output accurancy(in this case, about 85%), crossentropy-value, and save some file(.model) , which save the logistic regression model.
 
 ## Start Testing
-just command the `training block` and uncommand `testing block`, and compile the code to start testing.
-
-the data size of testing-set can be different, it will auto-compute the data size.
+In command Line, use command
+```console
+python  hw2p2.py --mode train --file X_test
+```
+to start testing,the data size of testing-set can be different, it will auto-compute the data size.
 
 ## Output Predict Result
 after finish testing, it will output a file which name is 'predictions.csv' that recorded the prediction.
 <img src="./img/img5.PNG">
 
-## Data Standardization & Normalization
-I use different strategy to implement this assignment, below show three result to descripte the training result with each strategy.
-- Pure Logistic Regression
-<img src="./img/img2.PNG">
-
-- Standardization
-<img src="./img/img3.PNG">
-
-- Standardization & Normalization
-<img src="./img/img4.PNG">
 
 ## More Detail
 [[Python]Logistic Regression (SGD version) – 1](https://john850512.wordpress.com/2018/04/16/pythonlogistic-regression-sgd-version/#more-2338)
