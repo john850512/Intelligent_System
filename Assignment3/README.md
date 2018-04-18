@@ -21,7 +21,7 @@ In command Line, use command
 ```console
 python  hw2p2.py --mode train --file X_train Y_train
 ```
-<img src="./img/img2.PNG">
+<img src="./img/img6.PNG">
 to start training 'X_train' and 'Y_train', after finish training, it will output accurancy(in this case, about 85%), crossentropy-value, and save some file(.model) , which save the logistic regression model.
 
 ## Start Testing
@@ -29,12 +29,12 @@ In command Line, use command
 ```console
 python  hw2p2.py --mode train --file X_test
 ```
-<img src="./img/img3.PNG">
+<img src="./img/img7.PNG">
 to start testing,the data size of testing-set can be different, it will auto-compute the data size.
 
 ## Output Predict Result
 after finish testing, it will output a file which name is 'predictions.csv' that recorded the prediction.
-<img src="./img/img4.PNG">
+<img src="./img/img5.PNG">
 
 
 ## More Detail
