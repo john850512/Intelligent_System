@@ -1,5 +1,5 @@
-# Linear_Regression_Assignment
-Assignment for use opendata to predict PM2.5 with Linear Regression
+# Logistic_Regression(SGD version)
+Assignment for use logistic regression to predict whether a person is poor or rich.
 
 ## Problem Description
 Use 106 featutes(data had been preprocessed) to prdict a person is rich or poor(make over 50K yes or not).
@@ -38,4 +38,4 @@ after finish testing, it will output a file which name is 'predictions.csv' that
 
 
 ## More Detail
-[[Python]Logistic Regression (SGD version) – 1](https://john850512.wordpress.com/2018/04/16/pythonlogistic-regression-sgd-version/#more-2338)
+[[Python]Logistic Regression (SGD version)](https://john850512.wordpress.com/2018/04/16/pythonlogistic-regression-sgd-version/#more-2338)
