@@ -10,5 +10,6 @@ I list what I had done for each assignment below:
 - [Assignment 2](https://github.com/john850512/Intelligent_System/tree/master/Assignment2): Use `Perceptron Learning Algorithm(PLA)` to training 
 - [Assignment 3](https://github.com/john850512/Intelligent_System/tree/master/Assignment3): Use `Logistic Regression(with SGD strategy)` to predict whether a person is rich / poor
 
+- [Final Project](https://github.com/john850512/Intelligent_System/tree/master/FinalProject_ECGClassifier): Use ` LSTM(Long Short Term Memory)` to classifier Arrhythmia.
 ## Detail
 You can get the detail information from each folder.
