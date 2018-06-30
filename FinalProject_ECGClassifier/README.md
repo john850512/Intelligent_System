@@ -1,13 +1,13 @@
 # ECGClassifier
 Final Project of Intelligent_System, which goal is to classify five types of ECG data(one for normal, four for Arrhythmia).
-
+<img src="./image/0.PNG">
 ## Problem Description
 MIT-BIH dataset has ECG recorded and the annotation of data,which means the heart pluse is normal or not, we want to use machine learning technology to make
 a classifier model for Arrhythmia.
 
 ## Data Description
 We use MIT-BIH dataset as training / testing data, more info of MIT-BIH you can see here: https://www.physionet.org/physiobank/database/mitdb/  
-<img src="./img/1.PNG">
+<img src="./image/1.PNG">
 
 In MIT-BIH, we only care about five annotation:
 - N(Normal beat)
@@ -35,7 +35,7 @@ I wrote codes with jupyter-notebook, you can easily run my code
 
 ## Output Predict Result
 after finish testing, the testing accurancy is about 95%
-<img src="./img/2.PNG">
+<img src="./image/2.png">
 
 
 ## More Detail
